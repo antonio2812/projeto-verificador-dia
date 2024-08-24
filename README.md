@@ -22,7 +22,7 @@
 
 Criei um verificador de dia da semana utilizando HTML, CSS e JavaScript. Este projeto permite ao usuário clicar em um botão que, ao ser acionado, exibe o dia da semana correspondente à data atual.
 
-[Visite o projeto online]()
+[Visite o projeto online](https://antonio2812.github.io/projeto-verificador-dia/)
 
 ## ⚡  Tecnologias
 
@@ -36,12 +36,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
   # Clone o projeto
-  $ git clone https://github.com/antonio2812/projeto-formulario-de-verificacao.git
+  $ git clone https://github.com/antonio2812/projeto-verificador-dia.git
 ````
 
 ```bash
   # Entrar no diretório
-  $ cd projeto-formulario-de-verificacao
+  $ cd projeto-verificador-dia
 ```
 
 ```bash
@@ -91,4 +91,4 @@ Dar uma⭐️se esse projeto te ajudou ou inspirou!
 
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/projeto-formulario-de-verificacao/blob/main/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/projeto-verificador-dia/blob/main/LICENSE">LICENSE</a> para mais detalhes.
